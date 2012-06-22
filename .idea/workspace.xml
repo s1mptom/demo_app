@@ -25,7 +25,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.11111111">
+            <state line="4" column="18" selection-start="84" selection-end="84" vertical-scroll-proportion="0.11111111">
               <folding />
             </state>
           </provider>
@@ -41,8 +41,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="443" />
-    <option name="y" value="68" />
+    <option name="x" value="555" />
+    <option name="y" value="110" />
     <option name="width" value="1131" />
     <option name="height" value="700" />
   </component>
@@ -271,7 +271,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="443" y="68" width="1131" height="700" extended-state="0" />
+    <frame x="555" y="110" width="1131" height="700" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -350,7 +350,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.11111111">
+        <state line="4" column="18" selection-start="84" selection-end="84" vertical-scroll-proportion="0.11111111">
           <folding />
         </state>
       </provider>
